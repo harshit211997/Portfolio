@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harshit Kumar</title>
+    <link>https://harshit211997.github.io/</link>
+    <description>Recent content on Harshit Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://harshit211997.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://harshit211997.github.io/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshit211997.github.io/aboutme/</guid>
+      <description>I am a student of IIT Roorkee studing Electrical Engineering and have been developing games for over 2 years. In some ways I was always interested in computer graphics and visual effects, which developed into a passion for creating games.
+I started my journey in game development using Android Studio making my first game Tic-tac-toe using the various components provided in it. I worked on various android apps, but soon realized that my passion lies in game development, after I started working on Blockks in my summers.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://harshit211997.github.io/contactme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshit211997.github.io/contactme/</guid>
+      <description>OR
+mail me at : harshit211997@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://harshit211997.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshit211997.github.io/projects/</guid>
+      <description>Splitter (Unity3D) Splitter is simple 2D mobile game available for Android made using Unity3D engine.
+ Worked on powerup system to make the game fun and challenging Worked on optimization of game to run smoothly on low end phones Worked on reducing size of the game Secured 1st prize in Game development competition of Shristi(Techno-Hobby Exhibition, IIT Roorkee)   
+Citadel (Android Studio) Citadel is an Android app for efficient and smooth sharing of books in college campus, promoting a healthy reading culture.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://harshit211997.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshit211997.github.io/resume/</guid>
+      <description>Education Indian Institute of Technology Roorkee, India (2015-present) ​
+Internship Nayi Disha Studios Programmer (May 2017 to July 2017)
+The company builds educational computer games for preschool children to make learning fun and more engaging, using motion sensing technology.
+ Created a game using Unity3D and Microsoft Kinect Platform Worked closely with the artists Playtested the game with kids ​  Technical Skills ​ C++, Java, OpenGL, c#, Unity, Android Studio, Git ​</description>
+    </item>
+    
+  </channel>
+</rss>
